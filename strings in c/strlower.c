@@ -16,6 +16,8 @@ int main()
         {
             s1[i] = s1[i]+32;
         }
+
+
     }
 
     printf("%s\n", s1);
