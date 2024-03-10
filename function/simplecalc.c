@@ -20,7 +20,7 @@ void divide(int a, int b)
     if( b != 0)
     {
         printf("a / b = %d\n", a / b);
-    }else{ 
+    }else{
         printf("Division by zero is not possible.\n");
     }
 }
